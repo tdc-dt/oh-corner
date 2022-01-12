@@ -1,3 +1,3 @@
 # Oh Corner
 
-[Privacy Policy](./docs/privacy-policy.md)
+[Privacy Policy](./privacy-policy.md)
